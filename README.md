@@ -49,16 +49,16 @@ O diferencial do jogo está no **sistema de fases dinâmicas**, onde as cores do
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/snake-python.git
+   git clone https://github.com/maria-vitoria-sb/SnakeGame.git
 2. Acesse a pasta do projeto:
    ```bash
-   cd snake-python
+   cd SnakeGame
 3. Instale o Pygame (caso ainda não tenha):
    ```bash
    pip install pygame
 4. Execute o jogo:
    ```bash
-   python main.py
+   python cobrinha.py
 
 ---
    
